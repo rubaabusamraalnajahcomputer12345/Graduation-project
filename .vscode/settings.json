@@ -1,0 +1,38 @@
+{
+  "cmake.sourceDirectory": "C:/Users/manal/Desktop/Hidaya/frontend/linux",
+
+  // Better Folding Extension Settings
+  "betterFolding.foldClosingBrackets": true,
+  "betterFolding.showFoldedBodyLinesCount": true,
+  "betterFolding.showFoldedBrackets": true,
+  "betterFolding.showOnlyRegionsDescriptions": true,
+  "betterFolding.excludedLanguages": ["markdown", "plaintext"],
+
+  // Additional Flutter/Dart specific settings
+  "editor.foldingStrategy": "indentation",
+  "editor.showFoldingControls": "always",
+  "editor.foldingMaximumRegions": 5000,
+
+  // Dart/Flutter specific folding
+  "[dart]": {
+    "editor.foldingStrategy": "indentation",
+    "editor.showFoldingControls": "always"
+  },
+
+  // JavaScript/TypeScript folding (for any JS/TS files in your project)
+  "[javascript]": {
+    "editor.foldingStrategy": "indentation",
+    "editor.showFoldingControls": "always"
+  },
+
+  "[typescript]": {
+    "editor.foldingStrategy": "indentation",
+    "editor.showFoldingControls": "always"
+  },
+
+  "[json]": {
+    "editor.foldingStrategy": "indentation",
+    "editor.showFoldingControls": "always"
+  },
+  "git.ignoreLimitWarning": true
+}

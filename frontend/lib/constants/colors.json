@@ -1,0 +1,91 @@
+{
+  "colors": {
+    "islamicGreen": {
+      "50": "#E6F3E9",
+      "100": "#D6E9D9",
+      "200": "#B6D5B8",
+      "300": "#8BCF94",
+      "400": "#5EB76A",
+      "500": "#3A8759",
+      "600": "#2F6B47",
+      "700": "#25603B",
+      "800": "#1F5234",
+      "900": "#193F27"
+    },
+    "islamicGold": {
+      "50": "#F9F2D5",
+      "100": "#F2E4A7",
+      "200": "#EAD873",
+      "300": "#E2BD5B",
+      "400": "#D9A73A",
+      "500": "#D7A93A",
+      "600": "#C59118",
+      "700": "#A67916",
+      "800": "#805B12",
+      "900": "#6D4B0F"
+    },
+    "neutrals": {
+      "cream": "#F4EFD8",
+      "white": "#FFFFFF"
+    },
+    "semantic": {
+      "success": {
+        "default": "#4CAF50",
+        "light": "#81C784",
+        "dark": "#388E3C"
+      },
+      "error": {
+        "default": "#F44336",
+        "light": "#E57373",
+        "dark": "#D32F2F"
+      },
+      "warning": {
+        "default": "#FF9800",
+        "light": "#FFB74D",
+        "dark": "#F57C00"
+      },
+      "info": {
+        "default": "#2196F3",
+        "light": "#64B5F6",
+        "dark": "#1976D2"
+      }
+    },
+    "grey": {
+      "50": "#FAFAFA",
+      "100": "#F5F5F5",
+      "200": "#EEEEEE",
+      "300": "#E0E0E0",
+      "400": "#BDBDBD",
+      "500": "#9E9E9E",
+      "600": "#757575",
+      "700": "#616161",
+      "800": "#424242",
+      "900": "#212121"
+    },
+    "askPage": {
+      "background": "#F4FBF8",
+      "privateBackground": "#FCF7E8",
+      "border": "#E6F3ED",
+      "privateBorder": "#E8C181",
+      "title": "#104C34",
+      "subtitle": "#206F4F",
+      "urgent": "#165A3F",
+      "privateIcon": "#D4A574",
+      "categoryBackground": "#BFE3D5",
+      "categoryText": "#165A3F",
+      "privacyBorder": "#93C5AE",
+      "privacyText": "#7F7556",
+      "humanBadge": "#2D8662",
+      "aiBackground": "#EFF6FF",
+      "aiBorder": "#BFDBFE",
+      "aiBox": "#DCEFFF",
+      "aiBlue": "#2563EB",
+      "aiDarkBlue": "#1E3A8A",
+      "aiText": "#1E40AF",
+      "aiNote": "#1D4ED8"
+    },
+    "misc": {
+      "deleteRed": "#D32F2F"
+    }
+  }
+}
